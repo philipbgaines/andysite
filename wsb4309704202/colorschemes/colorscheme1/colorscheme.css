@@ -1,0 +1,201 @@
+/*----------------------------------------------------------------------------
+	colorscheme1.css for colorscheme 1
+
+	this css-file contains all definitions, that depend on the colorscheme.
+
+	(c) Schlund + Partner AG
+----------------------------------------------------------------------------*/
+
+/*-- main container --------------------------------------------------------*/
+
+#container {
+    background: repeat-y 50% 50%;
+    background-image: url(images/static/contentbg.gif);
+}
+
+/*--- header ---------------------------------------------------------------*/
+
+#header {
+    background: no-repeat top left;
+    background-image: url(images/static/headerbg.gif);
+}
+
+/*--- main navigation ------------------------------------------------------*/
+
+#main_nav_container {
+    background: #f4fefe repeat-x top left;
+    background-image: url(images/static/mainnav.gif);
+}
+
+/*--- caption --------------------------------------------------------------*/
+
+#slogan {
+    color: #A9BEC1;
+}
+
+#slogan_bg {
+    background: no-repeat;
+    background-image: url(images/static/hbg.gif);
+}
+
+/*--- main navigation ------------------------------------------------------*/
+
+#main_nav_list {
+    background: no-repeat top left;
+    background-image: url(images/static/listbg.gif);
+}
+
+/*--- footer ---------------------------------------------------------------*/
+
+#footer {
+    background: transparent top left no-repeat;
+    background-image: url(images/static/footerbg.gif);
+}
+
+/*----------------------------------------------------------------------------
+  default-styles for html-elements
+----------------------------------------------------------------------------*/
+
+/*--- body -----------------------------------------------------------------*/
+
+body#main_body {
+    color: #000000;
+    background: #D8E2E2 repeat-x;
+    background-image: url(images/static/pgbk.gif);
+}
+
+/*--- tables ---------------------------------------------------------------*/
+
+.content table {
+    border-color: #A9BEC1;
+}
+
+.content th {
+    color: #fff;
+    background-color: #73878A;
+}
+
+.content tr.odd {
+    color: #324C50;
+    background-color: #E9FDFD;
+}
+
+.content tr.even {
+    color: #324C50;
+    background-color: #D5EAEA;
+}
+
+/*--- forms ----------------------------------------------------------------*/
+
+.content fieldset {
+    border-color: #73878A;
+}
+
+.content legend {
+    color: #324C50;
+}
+
+.content label {
+    color: #324C50;
+}
+
+.content input {
+    border-color: #73878A;
+}
+
+.content textarea {
+    border-color: #73878A;
+}
+
+/*--- lists ----------------------------------------------------------------*/
+
+.content ul {
+    background: #E9FDFD;
+    border-color: #A9BEC1;
+}
+
+.content ul li {
+    list-style-image: url(images/static/list.gif);
+    list-style-position: outside;
+    display: list-item;
+}
+
+.content ol {
+    background: #E9FDFD;
+    border-color: #A9BEC1;
+}
+
+#footer_text {
+    color: #324C50;
+}
+
+#main_nav_list a.main_nav_active_item {
+    color: #fff;
+    background-image: url(../../images/dynamic/buttonset1/n1activeitem.gif);
+    background-position: top right;
+}
+
+#main_nav_list a.main_nav_item {
+    color: #324C50;
+    background-image: url(../../images/dynamic/buttonset1/n1.gif);
+    background-position: top right;
+}
+
+#main_nav_list a.main_nav_item:hover {
+    color: #324C50;
+    background-image: url(../../images/dynamic/buttonset1/n1hover.gif);
+}
+
+.sub_nav_list a.sub_nav_active_item {
+    color: #73878A;
+    background-image: url(../../images/dynamic/buttonset1/subnav1active.gif);
+    background-repeat: repeat-y;
+}
+
+.sub_nav_list a.sub_nav_item {
+    color: #324C50;
+    background-image: url(../../images/dynamic/buttonset1/subnav1.gif);
+    background-repeat: repeat-y;
+}
+
+.sub_nav_list a.sub_nav_item:hover {
+    color: #000;
+    background-image: url(../../images/dynamic/buttonset1/subnav1hover.gif);
+    background-repeat: repeat-y;
+}
+
+#content_container a:active {
+    color: #324C50;
+}
+
+#content_container a:hover {
+    color: #000;
+}
+
+#content_container a:visited {
+    color: #324C50;
+}
+
+#content_container a:link {
+    color: #324C50;
+}
+
+#content_container h1 {
+    color: #586D70;
+}
+
+#content_container h2 {
+    color: #586D70;
+}
+
+#content_container h3 {
+    color: #586D70;
+}
+
+#content_container {
+    color: #324C50;
+}
+
+#content_container p {
+    color: #324C50;
+}

@@ -1,0 +1,417 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 4k Icons\n"
+"POT-Creation-Date: 2014-03-19 19:21+0800\n"
+"PO-Revision-Date: 2014-03-19 19:21+0800\n"
+"Last-Translator: Benjamin Intal <bfintal@gmail.com>\n"
+"Language-Team: Gambit <bfintal@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../4k-vc-icon-shortcode.php:106
+msgid "Search icon or pick one below..."
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:116
+msgid "Search Filter"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:117
+msgid "Show all icons"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:119 ../4k-vc-icon-shortcode.php:122
+#: ../4k-vc-icon-shortcode.php:125 ../4k-vc-icon-shortcode.php:128
+#: ../4k-vc-icon-shortcode.php:131 ../4k-vc-icon-shortcode.php:134
+#: ../4k-vc-icon-shortcode.php:137 ../4k-vc-icon-shortcode.php:140
+#: ../4k-vc-icon-shortcode.php:143 ../4k-vc-icon-shortcode.php:146
+#: ../4k-vc-icon-shortcode.php:149 ../4k-vc-icon-shortcode.php:152
+#: ../4k-vc-icon-shortcode.php:155 ../4k-vc-icon-shortcode.php:158
+#: ../4k-vc-icon-shortcode.php:161 ../4k-vc-icon-shortcode.php:164
+#: ../4k-vc-icon-shortcode.php:167 ../4k-vc-icon-shortcode.php:170
+#: ../4k-vc-icon-shortcode.php:173 ../4k-vc-icon-shortcode.php:176
+#: ../4k-vc-icon-shortcode.php:179 ../4k-vc-icon-shortcode.php:182
+#: ../4k-vc-icon-shortcode.php:185
+#, php-format
+msgid "%s by %s"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:209
+msgid "4k Icon"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:210
+msgid "Awesome styleable icon"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:216
+msgid "Choose your icon"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:221
+msgid "Icon Color"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:224
+msgid "Pick a color for your icon."
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:227
+msgid "Icon Size"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:230
+msgid "The size of your icon in pixels."
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:233
+msgid "Background Shape"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:237
+msgid "No background shape"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:238
+msgid "Circle"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:239
+msgid "Square"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:240
+msgid "Rounded-Square"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:242
+msgid "Select a background shape for your icon."
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:245
+msgid "Background Shape Type"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:249
+msgid "Normal, solid background"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:250
+msgid "Solid background with a dark bottom border"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:251
+msgid "Thin bordered background"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:252
+msgid "Thick bordered background"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:254
+msgid ""
+"Select a type of background shape for your icon. This is only applied when "
+"there are no hover effects."
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:261
+msgid "Background Shape Border Radius"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:264
+msgid "The border radius of the background shape in pixels."
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:271
+msgid "Background Shape Color"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:274
+msgid "Pick a color for your icon's background shape."
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:281
+msgid "Shape Size"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:284
+msgid "The size for your icon's background shape in pixels."
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:291
+msgid "Hover Effect"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:294
+msgid "The hover effect to play when the mouse hovers over the icon."
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:296
+msgid "No hover effect"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:297
+msgid "Faint background shape that solidifies on hover with an outline"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:298
+msgid ""
+"Solid background shape that gets smaller when hovered on and shows a border"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:299
+msgid ""
+"Solid background shape, that flips vertically when hovered with inverted "
+"colors"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:300
+msgid ""
+"Solid background shape, that flips horizontally when hovered with inverted "
+"colors"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:301
+msgid ""
+"Solid background shape, icon swipes down on hover and gets replaced with "
+"inverted colors"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:302
+msgid ""
+"Solid background shape, icon swipes up on hover and gets replaced with "
+"inverted colors"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:303
+msgid ""
+"Solid background shape, icon swipes left on hover and gets replaced with "
+"inverted colors"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:304
+msgid ""
+"Solid background shape, icon swipes right on hover and gets replaced with "
+"inverted colors"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:305
+msgid ""
+"Outlined background shape that gets filled up from the bottom when hovered"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:306
+msgid "Border background shape that gets filled up from the edges when hovered"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:307
+msgid ""
+"Border background shape that gets smaller with another thicker border when "
+"hovered"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:315
+msgid "Hover Effect Trigger"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:318
+msgid ""
+"Choose the element which would trigger the hover effect. You may need to "
+"play around this value depending on your hover effect since some may have "
+"additional containers for the effect."
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:322 ../4k-vc-icon-shortcode.php:323
+#: ../4k-vc-icon-shortcode.php:324
+#, php-format
+msgid "When the mouse hovers over the icon's container (%d containers outward)"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:325
+msgid "When the mouse hovers over the row"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:333
+msgid "Link to go to When Icon is Clicked"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:336
+msgid "Enter a URL here to make your icon a link."
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:339
+msgid "Open The Link in a New Window?"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:340
+msgid "Check this to open the link above in a new window"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:359
+msgid "Icon Float"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:363
+msgid "Don't float"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:364
+msgid "Float left"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:365
+msgid "Float right"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:367
+msgid "The float rule of the icon."
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:370
+msgid "Overflow the Next Content?"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:373
+msgid ""
+"If the next content box is a single text block, you can check this field in "
+"order for the icon to occupy the whole height (not like when floated). This "
+"only applies when you have the float field set to left or right."
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:380
+msgid "Icon Margin"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:383
+msgid ""
+"The margin in pixels. By default this margin will be placed on the bottom of "
+"your icon. If floated left or right, this margin will also be used on the "
+"side the icon meets your content."
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:386
+msgid "Class name"
+msgstr ""
+
+#: ../4k-vc-icon-shortcode.php:389
+msgid ""
+"You can add an extra class name to this icon if you want to add custom CSS "
+"styles to it."
+msgstr ""
+
+#: ../titan-framework/class-admin-panel.php:290
+msgid "Settings saved."
+msgstr ""
+
+#: ../titan-framework/class-admin-panel.php:292
+msgid "Settings reset to default."
+msgstr ""
+
+#: ../titan-framework/class-meta-box.php:35
+#: ../titan-framework/class-theme-customizer-section.php:30
+msgid "More Options"
+msgstr ""
+
+#: ../titan-framework/class-option-save.php:20
+msgid "Save Changes"
+msgstr ""
+
+#: ../titan-framework/class-option-save.php:23
+msgid "Reset to Default"
+msgstr ""
+
+#: ../titan-framework/class-option-select-categories.php:37
+#: ../titan-framework/class-option-select-categories.php:104
+#: ../titan-framework/class-option-select-pages.php:30
+#: ../titan-framework/class-option-select-posts.php:38
+#: ../titan-framework/class-option-select-posts.php:106
+msgid "Select"
+msgstr ""
+
+#: ../titan-framework/class-option-select-googlefont.php:29
+#, php-format
+msgid ""
+"%s has been deprecated and will be removed in version %s! Please use %s "
+"instead to avoid errors in the future."
+msgstr ""
+
+#: ../titan-framework/class-option-select-googlefont.php:108
+msgid "Ultra-light"
+msgstr ""
+
+#: ../titan-framework/class-option-select-googlefont.php:111
+msgid "Light"
+msgstr ""
+
+#: ../titan-framework/class-option-select-googlefont.php:114
+msgid "Book"
+msgstr ""
+
+#: ../titan-framework/class-option-select-googlefont.php:117
+msgid "Medium"
+msgstr ""
+
+#: ../titan-framework/class-option-select-googlefont.php:120
+msgid "Semi-Bold"
+msgstr ""
+
+#: ../titan-framework/class-option-select-googlefont.php:123
+msgid "Bold"
+msgstr ""
+
+#: ../titan-framework/class-option-select-googlefont.php:126
+msgid "Extra-Bold"
+msgstr ""
+
+#: ../titan-framework/class-option-select-googlefont.php:129
+msgid "Ultra-Bold"
+msgstr ""
+
+#: ../titan-framework/class-option-select-googlefont.php:132
+msgid "Regular"
+msgstr ""
+
+#: ../titan-framework/class-option-upload.php:34
+msgid "Upload"
+msgstr ""
+
+#: ../titan-framework/class-option.php:40
+#, php-format
+msgid "Option type or extended class %s does not exist."
+msgstr ""
+
+#: ../titan-framework/class-titan-framework.php:85
+#, php-format
+msgid "All option IDs must be unique. The id %s has been used multiple times."
+msgstr ""
+
+#: ../titan-framework/class-titan-framework.php:343
+#: ../titan-framework/class-titan-framework.php:390
+#, php-format
+msgid ""
+"Wrong usage of %s, this should be called inside a hook or from within a "
+"theme file."
+msgstr ""
+
+#: ../titan-framework/titan-framework.php:126
+msgid "Documentation"
+msgstr ""
+
+#: ../titan-framework/titan-framework.php:130
+msgid "GitHub Repo"
+msgstr ""
+
+#: ../titan-framework/titan-framework.php:134
+msgid "Issue Tracker"
+msgstr ""
+
+#: ../titan-shortcode-extension/class-titan-shortcode.php:207
+msgid "Shortcodes"
+msgstr ""

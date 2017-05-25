@@ -1,0 +1,33 @@
+ChangeLog
+=========
+
+VERSION 1.0.3
+
+	i) WooCommerce 3.0 Fix 
+
+Version 1.0.2
+
+	i) Added WooCommerce Support
+
+Version 1.0.0.1
+
+	i) Fixed issue where Hiding Titles, hid social icons too.
+
+Version 1.0
+
+	i) Fixed Issues with Footer Widget Area 4 Not appearing.			
+	ii) Added nofollow to Footer Credit Link.
+
+Version 0.94
+
+	i) Minor Correction to pot file.
+	ii) Removed Config.codekit
+
+Version 0.91
+
+	i) Corrected Text Domain in customizer.php
+	ii) Escaped Values on Output
+
+Version 0.9 
+
+	- Initial Release

@@ -1,0 +1,469 @@
+/*----------------------------------------------------------------------------
+	main.css
+
+	this css-file contains all definitions, that are independend from the
+	colorschemes.
+
+	(c) Schlund + Partner AG
+
+
+	----------------------------------------------------------------------
+	Modified and extended by Barti Bartman for the Sports-Template
+
+	This CSS-File uses the original "Tanteks Box Modell Hack"
+	http://www.tantek.com/CSS/Examples/boxmodelhack.html
+
+	NOTE:
+	Older W3C CSS validators return errors when the voice-family property
+	is used in a 'screen' style sheet. This is an error in the W3C CSS
+	validator itself. The validator should report a warning, not an error,
+	when properties which are unsupported by a particular medium are used,
+	and this has been reported to the W3C:
+
+ ----------------------------------------------------------------------------*/
+
+/*----------------------------------------------------------------------------
+ styles for specific classes and ids
+----------------------------------------------------------------------------*/
+
+/*-- global container ------------------------------------------------------*/
+
+#container {
+    position: relative;
+    padding: 0;
+    margin: 0 auto;
+    text-align: left;
+    width: 775px;
+}
+
+/*-- main container: contains all between header and footer ----------------*/
+
+#main_container {
+    clear: both;
+    padding: 0;
+    margin: 0 0 0 20px;
+}
+
+/*--- the main container is devided in sub containers ----------------------*/
+
+#layout_table {
+    border-collapse: collapse;
+}
+
+#left_column {
+    vertical-align: top;
+}
+
+#right_column {
+    vertical-align: top;
+}
+
+#content_container {
+    width: 505px;
+}
+
+#sub_container2 {
+    margin: 0;
+    padding: 0;
+    width: 525px;
+    overflow: hidden;
+}
+
+#left_column_container {
+    margin: 0;
+    padding: 0 0 0 15px;
+    width: 190px;
+}
+
+/*--- header ---------------------------------------------------------------*/
+
+#header {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    width: 775px;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+}
+
+/*--- key visual -----------------------------------------------------------*/
+
+#key_visual {
+    position: relative;
+    top: 0px;
+    left: 35px;
+    margin: 60px 0 0 0;
+    width: 705px;
+    height: 228px;
+}
+
+/*--- logo -----------------------------------------------------------------*/
+
+#logo {
+    width: 249px;
+    height: 98px;
+    position: absolute;
+    top: 75px;
+    left: 50px;
+}
+
+/*--- caption (as text or background image) --------------------------------*/
+
+#slogan_bg {
+    width: 705px;
+    margin: 5px 15px 5px 15px;
+}
+
+#slogan {
+    width: 695px;
+    text-align: center;
+    font-family: Georgia, Times New Roman, Times, serif;
+    font-size: 32px;
+    font-style: italic;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+/*--- main navigation ------------------------------------------------------*/
+
+#main_nav_container {
+    z-index: 1;
+    position: relative;
+    left: 35px;
+    top: 0px;
+    width: 705px;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+#main_nav_list {
+    position: relative;
+    margin: 1px 0 0 0;
+    padding: 0;
+    top: 0;
+    left: 0;
+    list-style-type: none;
+}
+
+#main_nav_list li {
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+
+/*--- main navigation items ------------------------------------------------*/
+
+#main_nav_list a {
+    overflow: hidden;
+    background: transparent;
+    margin: 0;
+    padding: 10px 20px 0px 15px;
+    display: block;
+    float: left;
+    height: 37px;
+    line-height: 20px;
+    text-align: left;
+    voice-family: "\"}\"";
+    voice-family: inherit;
+    height: 27px;
+}
+
+html>body #main_nav_list a {
+    height: 27px;
+}
+
+a.main_nav_item:hover {
+    background: transparent;
+}
+
+/*--- container for the subnavigation --------------------------------------*/
+
+.sub_nav_container {
+    margin: 0;
+    padding: 0;
+}
+
+/*--- subnavigation --------------------------------------------------------*/
+
+.sub_nav_list {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.sub_nav_list li {
+    margin: 3px 0 3px 0;
+    padding: 0;
+}
+
+/*--- subnavigation items --------------------------------------------------*/
+
+.sub_nav_list a {
+    background-repeat: repeat-y !important;
+    overflow: hidden;
+    text-align: left;
+    line-height: 30px;
+    xheight: 29px;
+    width: 172px;
+    padding: 0 0 0 13px;
+    display: block;
+    voice-family: "\"}\"";
+    voice-family: inherit;
+    width: 159px;
+}
+
+html>body .sub_nav_list a {
+    width: 159px;
+}
+
+/*--- footer ---------------------------------------------------------------*/
+
+#footer {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    width: 775px;
+    height: 65px;
+    overflow: hidden;
+}
+
+#footer_text {
+    width: 705px;
+    padding: 10px 0 0 0;
+    margin: 0 0 0 35px;
+    text-align: center;
+    font-family: Arial,Verdana,Helvetica,sans-serif;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+/*----------------------------------------------------------------------------
+  default-styles for html-elements
+----------------------------------------------------------------------------*/
+
+/*--- body -----------------------------------------------------------------*/
+
+body#main_body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: x-small;
+    /* IE5 Win */
+    voice-family: "\"}\"";
+    voice-family: inherit;
+    font-size: small;
+}
+
+/*--- paragraph ------------------------------------------------------------*/
+
+.content, .content p {
+    margin: 5px 0 20px 0;
+    padding: 0;
+    line-height: 1.4;
+}
+
+/*--- headings -------------------------------------------------------------*/
+
+.content h1 {
+    margin-top: 18px;
+    margin-bottom: 8px;
+}
+
+.content h2 {
+    margin-bottom: 4px;
+}
+
+.content h3 {
+    margin-bottom: -1px;
+}
+
+/*--- tables ---------------------------------------------------------------*/
+
+.content table {
+    border-style: solid;
+    border-width: 1px;
+    border-spacing: 0;
+    margin-bottom: 10px;
+}
+
+.content th {
+    padding: 3px 2px 3px 10px;
+    text-align: left;
+}
+
+.content tr.odd {
+    padding: 3px 2px 3px 2px;
+}
+
+.content tr.even {
+    padding: 3px 2px 3px 2px;
+}
+
+.content td {
+    padding-left: 10px;
+}
+
+/*--- forms ----------------------------------------------------------------*/
+
+.content fieldset {
+    padding: 15px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.content input {
+    border-style: solid;
+    border-width: 1px;
+}
+
+.content textarea {
+    border-style: solid;
+    border-width: 1px;
+}
+
+/*--- lists ----------------------------------------------------------------*/
+
+.content ul {
+    margin: 0 0 20px 0;
+    padding: 5px 10px 5px 28px;
+    border: 1px solid;
+}
+
+.content ul li {
+    padding: 2px 0;
+}
+
+.content ol {
+    margin: 0 0 20px 0;
+    padding: 5px 10px 5px 28px;
+    border: 1px solid;
+}
+
+.content ol li {
+    padding: 3px 0;
+}
+
+#main_nav_list a.main_nav_active_item {
+    font-family: Arial,Verdana,Helvetica,sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#main_nav_list a.main_nav_item {
+    font-family: Arial,Verdana,Helvetica,sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#main_nav_list a.main_nav_item:hover {
+    font-family: Arial,Verdana,Helvetica,sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.sub_nav_list a.sub_nav_active_item {
+    font-family: Arial,Verdana,Helvetica,sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.sub_nav_list a.sub_nav_item {
+    font-family: Arial,Verdana,Helvetica,sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.sub_nav_list a.sub_nav_item:hover {
+    font-family: Arial,Verdana,Helvetica,sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: underline;
+}
+
+#content_container a:active {
+    font-family: Arial,Verdana,Helvetica,sans-serif;
+    font-size: 100%;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+#content_container a:hover {
+    font-family: Arial,Verdana,Helvetica,sans-serif;
+    font-size: 100%;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: underline;
+}
+
+#content_container a:visited {
+    font-family: Arial,Verdana,Helvetica,sans-serif;
+    font-size: 100%;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+#content_container a:link {
+    font-family: Arial,Verdana,Helvetica,sans-serif;
+    font-size: 100%;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+#content_container h1 {
+    font-family: Arial,Verdana,Helvetica,sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+#content_container h2 {
+    font-family: Arial,Verdana,Helvetica,sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+#content_container h3 {
+    font-family: Arial,Verdana,Helvetica,sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#content_container {
+    font-family: Tahoma, Verdana, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+#content_container p {
+    font-family: Tahoma, Verdana, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+}

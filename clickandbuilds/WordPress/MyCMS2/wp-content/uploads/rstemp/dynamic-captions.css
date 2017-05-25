@@ -1,0 +1,104 @@
+.tp-caption.attractor-h1-white {
+font-size:60px;
+line-height:75px;
+font-weight:200;
+font-family:raleway;
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:transparent;
+text-shadow:none;
+margin:0px;
+white-space:nowrap;
+text-align:center;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.attractor-button-white {
+font-size:14px;
+line-height:45px;
+font-weight:400;
+font-family:"open sans";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:rgb(255, 255, 255);
+background-color:rgba(255, 255, 255, 0);
+padding:0px 20px;
+text-shadow:none;
+display:block;
+cursor:pointer;
+border-width:1px;
+border-color:rgb(255, 255, 255);
+border-style:solid;
+}
+
+.tp-caption.attractor-button-white:hover {
+font-size:14px;
+line-height:45px;
+font-weight:400;
+font-family:"open sans";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:rgb(254, 126, 23);
+padding:0px 20px;
+text-shadow:none;
+display:block;
+cursor:pointer;
+border-width:1px;
+border-color:rgb(254, 126, 23);
+border-style:solid;
+}
+
+.tp-caption.attractor-h1 {
+font-size:60px;
+line-height:75px;
+font-weight:200;
+font-family:raleway;
+color:rgb(0, 0, 0);
+text-decoration:none;
+background-color:transparent;
+text-shadow:none;
+margin:0px;
+white-space:nowrap;
+text-align:center;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.attractor-button {
+font-size:14px;
+line-height:45px;
+font-weight:400;
+font-family:"open sans";
+color:rgb(0, 0, 0);
+text-decoration:none;
+background-color:rgb(0, 0, 0);
+background-color:rgba(0, 0, 0, 0);
+padding:0px 20px;
+text-shadow:none;
+display:block;
+cursor:pointer;
+border-width:1px;
+border-color:rgb(0, 0, 0);
+border-style:solid;
+}
+
+.tp-caption.attractor-button:hover {
+font-size:18px;
+line-height:45px;
+font-weight:700;
+font-family:Roboto;
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:rgb(254, 126, 23);
+padding:0px 20px;
+text-shadow:none;
+display:block;
+cursor:pointer;
+border-width:0px;
+border-color:rgb(254, 126, 23);
+border-style:solid;
+}
+

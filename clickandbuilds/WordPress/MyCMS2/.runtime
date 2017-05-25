@@ -1,0 +1,14 @@
+install : 4.060s
+configure : 4.746s
+upgrade 4.2.2 (2) to 4.2.3: 1.155s
+upgrade 4.2.3 (2) to 4.2.4: 1.166s
+upgrade 4.2.4 (3) to 4.3: 1.146s
+upgrade 4.3 (3) to 4.3.1: 1.165s
+upgrade 4.3.1 (4) to 4.3.1: 1.955s
+upgrade 4.4 (1) to 4.4.1: 1.117s
+upgrade 4.4.1 (1) to 4.4.2: 1.553s
+upgrade 4.4.2 (1) to 4.5.2: 1.474s
+upgrade 4.5.2 (1) to 4.5.3: 6.450s
+upgrade 4.5.3 (1) to 4.6: 4.945s
+upgrade 4.6 (1) to 4.6: 12.183s
+upgrade 4.6 (1) to 4.6: 4.711s

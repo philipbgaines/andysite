@@ -1,0 +1,280 @@
+# Translation of Themes - Queue in English (UK)
+# This file is distributed under the same license as the Themes - Queue package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 00:54:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - Queue\n"
+
+#. Description of the plugin/theme
+msgid "Queue is a highly responsive theme designed with meticulous typography, tasteful details, and the ability to maximize screen space."
+msgstr "Queue is a highly responsive theme designed with meticulous typography, tasteful details, and the ability to maximise the screen space."
+
+#. Theme Name of the plugin/theme
+msgid "Queue"
+msgstr "Queue"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: inc/template-tags.php:157
+msgid "% Comments"
+msgstr "% Comments"
+
+#: inc/template-tags.php:157
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: inc/template-tags.php:157
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: inc/template-tags.php:151
+msgid "Tagged %1$s"
+msgstr "Tagged %1$s"
+
+#: inc/template-tags.php:145
+msgid "Posted in %1$s"
+msgstr "Posted in %1$s"
+
+#: inc/template-tags.php:126
+msgctxt "post author"
+msgid "by %s"
+msgstr "By %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:143 inc/template-tags.php:149
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:121
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Posted on %s"
+
+#: inc/template-tags.php:39
+msgid "<span class=\"meta-nav\">&larr;</span> Newer posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Newer posts"
+
+#: inc/template-tags.php:43
+msgid "Older posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Older posts <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:66
+msgid "Post navigation"
+msgstr "Post navigation"
+
+#: inc/template-tags.php:35
+msgid "Posts navigation"
+msgstr "Posts navigation"
+
+#: inc/featured-content.php:428
+msgid "Tag Name"
+msgstr "Tag Name"
+
+#: inc/featured-content.php:433
+msgid "Don&rsquo;t display tag on front end."
+msgstr "Don&rsquo;t display tag on front end."
+
+#: inc/customizer.php:43
+msgid "Accent Color"
+msgstr "Accent Colour"
+
+#: inc/customizer.php:53
+msgid "Provide a brief description of your site to appear in the footer of the home page."
+msgstr "Provide a brief description of your site to appear in the footer of the home page."
+
+#: inc/customizer.php:52
+msgid "Mini About"
+msgstr "Mini About"
+
+#: inc/extras.php:63
+msgid "Page %s"
+msgstr "Page %s"
+
+#: inc/customizer.php:79
+msgid "Show?"
+msgstr "Show?"
+
+#: inc/customizer.php:24 inc/featured-content.php:406
+msgid "Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr "Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+
+#: inc/customizer.php:25 inc/customizer.php:54 inc/featured-content.php:407
+#: inc/featured-content.php:416 inc/featured-content.php:477
+msgctxt "featured content default tag slug"
+msgid "featured"
+msgstr "featured"
+
+#: inc/customizer.php:23 inc/featured-content.php:405
+msgid "Featured Content"
+msgstr "Featured Content"
+
+#: functions.php:271
+msgid "Primary Nav"
+msgstr "Primary Nav"
+
+#: functions.php:272
+msgid "Secondary Nav"
+msgstr "Secondary Nav"
+
+#: inc/customizer.php:19
+msgid "Display Site Title &amp; Tagline"
+msgstr "Display Site Title &amp; Tagline"
+
+#: functions.php:236
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: footer.php:29
+msgid "Theme: %1$s by %2$s"
+msgstr "Theme: %1$s by %2$s"
+
+#: functions.php:195
+msgid "&hellip;"
+msgstr "&hellip;"
+
+#: footer.php:27
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:27
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. translators: %s: Name of current post
+#: content.php:22 post-preview.php:22
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: footer.php:20
+msgid "About"
+msgstr "About"
+
+#: content-page.php:19 content-single.php:21 content.php:29
+msgid "Pages:"
+msgstr "Pages:"
+
+#: content-page.php:12 content-single.php:14
+msgid "Edit"
+msgstr "Edit"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: comments.php:31 comments.php:48
+msgid "&#65513; Newer Comments"
+msgstr "&#65513; Newer Comments"
+
+#: comments.php:32 comments.php:49
+msgid "Older Comments &#65515;"
+msgstr "Older Comments &#65515;"
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:30 comments.php:47
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Archives"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Chats"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Audios"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Statuses"
+
+#: archive.php:54
+msgid "Links"
+msgstr "Links"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Quotes"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Videos"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Images"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Galleries"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Asides"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Year: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Month: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Day: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Author: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "It looks like nothing was found at this location. Maybe try a search?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#. Author of the plugin/theme
+msgid "Raphael Wenger"
+msgstr "Raphael Wenger"
+
+#. Author URI of the plugin/theme
+msgid "http://www.raphaelwenger.com/"
+msgstr "http://www.raphaelwenger.com/"
